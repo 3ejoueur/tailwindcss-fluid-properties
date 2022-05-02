@@ -1,0 +1,23 @@
+{
+  "name": "@3ejoueur/tailwindcss-fluid-properties",
+  "version": "1.0.0",
+  "description": "Tailwind CSS plugin to make some CSS properties fluid between breakpoints",
+  "main": "tailwindcss-fluid-properties.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind CSS",
+    "fluid CSS",
+    "fluid",
+    "font-size",
+    "fluid",
+    "typography",
+    "fluid",
+    "width",
+    "3ejoueur"
+  ],
+  "author": "Ian Reid Langevin",
+  "license": "ISC"
+}
